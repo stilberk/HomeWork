@@ -1,3 +1,4 @@
 Here we start!
 Lets try a change!
 -----------------
+Currently using git Bash with https connection...
