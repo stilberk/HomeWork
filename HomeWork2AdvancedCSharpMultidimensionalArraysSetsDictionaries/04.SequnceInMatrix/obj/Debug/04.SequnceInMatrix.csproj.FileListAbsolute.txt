@@ -1,0 +1,6 @@
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWork2AdvancedCSharpMultidimensionalArraysSetsDictionaries\04.SequnceInMatrix\bin\Debug\04.SequnceInMatrix.exe.config
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWork2AdvancedCSharpMultidimensionalArraysSetsDictionaries\04.SequnceInMatrix\bin\Debug\04.SequnceInMatrix.exe
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWork2AdvancedCSharpMultidimensionalArraysSetsDictionaries\04.SequnceInMatrix\bin\Debug\04.SequnceInMatrix.pdb
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWork2AdvancedCSharpMultidimensionalArraysSetsDictionaries\04.SequnceInMatrix\obj\Debug\04.SequnceInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWork2AdvancedCSharpMultidimensionalArraysSetsDictionaries\04.SequnceInMatrix\obj\Debug\04.SequnceInMatrix.exe
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWork2AdvancedCSharpMultidimensionalArraysSetsDictionaries\04.SequnceInMatrix\obj\Debug\04.SequnceInMatrix.pdb

@@ -1,0 +1,6 @@
+c:\users\aiv\documents\visual studio 2015\Projects\HomeWork2AdvancedCSharpMultidimensionalArraysSetsDictionaries\02.MaximalSum\bin\Debug\02.MaximalSum.exe.config
+c:\users\aiv\documents\visual studio 2015\Projects\HomeWork2AdvancedCSharpMultidimensionalArraysSetsDictionaries\02.MaximalSum\bin\Debug\02.MaximalSum.exe
+c:\users\aiv\documents\visual studio 2015\Projects\HomeWork2AdvancedCSharpMultidimensionalArraysSetsDictionaries\02.MaximalSum\bin\Debug\02.MaximalSum.pdb
+c:\users\aiv\documents\visual studio 2015\Projects\HomeWork2AdvancedCSharpMultidimensionalArraysSetsDictionaries\02.MaximalSum\obj\Debug\02.MaximalSum.csprojResolveAssemblyReference.cache
+c:\users\aiv\documents\visual studio 2015\Projects\HomeWork2AdvancedCSharpMultidimensionalArraysSetsDictionaries\02.MaximalSum\obj\Debug\02.MaximalSum.exe
+c:\users\aiv\documents\visual studio 2015\Projects\HomeWork2AdvancedCSharpMultidimensionalArraysSetsDictionaries\02.MaximalSum\obj\Debug\02.MaximalSum.pdb

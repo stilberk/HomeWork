@@ -1,0 +1,5 @@
+c:\users\aiv\documents\visual studio 2015\Projects\HomeWork2AdvancedCSharpMultidimensionalArraysSetsDictionaries\01.FillTheMatrix\bin\Debug\01.FillTheMatrix.exe.config
+c:\users\aiv\documents\visual studio 2015\Projects\HomeWork2AdvancedCSharpMultidimensionalArraysSetsDictionaries\01.FillTheMatrix\bin\Debug\01.FillTheMatrix.exe
+c:\users\aiv\documents\visual studio 2015\Projects\HomeWork2AdvancedCSharpMultidimensionalArraysSetsDictionaries\01.FillTheMatrix\bin\Debug\01.FillTheMatrix.pdb
+c:\users\aiv\documents\visual studio 2015\Projects\HomeWork2AdvancedCSharpMultidimensionalArraysSetsDictionaries\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.exe
+c:\users\aiv\documents\visual studio 2015\Projects\HomeWork2AdvancedCSharpMultidimensionalArraysSetsDictionaries\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.pdb

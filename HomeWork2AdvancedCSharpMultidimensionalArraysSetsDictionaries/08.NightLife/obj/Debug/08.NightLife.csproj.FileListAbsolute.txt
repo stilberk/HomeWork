@@ -1,0 +1,6 @@
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWork2AdvancedCSharpMultidimensionalArraysSetsDictionaries\08.NightLife\bin\Debug\08.NightLife.exe.config
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWork2AdvancedCSharpMultidimensionalArraysSetsDictionaries\08.NightLife\bin\Debug\08.NightLife.exe
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWork2AdvancedCSharpMultidimensionalArraysSetsDictionaries\08.NightLife\bin\Debug\08.NightLife.pdb
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWork2AdvancedCSharpMultidimensionalArraysSetsDictionaries\08.NightLife\obj\Debug\08.NightLife.csprojResolveAssemblyReference.cache
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWork2AdvancedCSharpMultidimensionalArraysSetsDictionaries\08.NightLife\obj\Debug\08.NightLife.exe
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWork2AdvancedCSharpMultidimensionalArraysSetsDictionaries\08.NightLife\obj\Debug\08.NightLife.pdb

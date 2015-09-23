@@ -1,0 +1,6 @@
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWork2AdvancedCSharpMultidimensionalArraysSetsDictionaries\07.PhoneBook\bin\Debug\07.PhoneBook.exe.config
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWork2AdvancedCSharpMultidimensionalArraysSetsDictionaries\07.PhoneBook\bin\Debug\07.PhoneBook.exe
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWork2AdvancedCSharpMultidimensionalArraysSetsDictionaries\07.PhoneBook\bin\Debug\07.PhoneBook.pdb
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWork2AdvancedCSharpMultidimensionalArraysSetsDictionaries\07.PhoneBook\obj\Debug\07.PhoneBook.csprojResolveAssemblyReference.cache
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWork2AdvancedCSharpMultidimensionalArraysSetsDictionaries\07.PhoneBook\obj\Debug\07.PhoneBook.exe
+C:\Users\aiv\Documents\Visual Studio 2015\Projects\HomeWork2AdvancedCSharpMultidimensionalArraysSetsDictionaries\07.PhoneBook\obj\Debug\07.PhoneBook.pdb
