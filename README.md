@@ -1,5 +1,5 @@
 # Multidimensional Arrays, Sets, Dictionaries
-Имаме ли кирилица тука?
+
 My C# Advanced HomeWorks 
 <br></br>
 This is my home work for the course C# Advanced in Software University https://softuni.bg
